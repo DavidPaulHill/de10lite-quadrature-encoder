@@ -1,0 +1,15 @@
+MAX10_CLK1_50 -> PIN_P11
+
+ENC[0] -> PIN_AB21   // Arduino_IO14
+ENC[1] -> PIN_AA20   // Arduino_IO15
+
+LEDR[0] -> PIN_A8
+LEDR[1] -> PIN_A9
+
+HEX0[0] -> PIN_C14
+HEX0[1] -> PIN_E15
+HEX0[2] -> PIN_C15
+HEX0[3] -> PIN_C16
+HEX0[4] -> PIN_E16
+HEX0[5] -> PIN_D17
+HEX0[6] -> PIN_C17
